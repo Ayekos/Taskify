@@ -10,6 +10,8 @@
 - View all tasks (completed and pending)
 - Mark tasks as done
 - Data persistence using a text file
+
+
 ![image](https://github.com/user-attachments/assets/018ed740-1c15-47b8-b778-079e3236f184)
 
 ![image](https://github.com/user-attachments/assets/cab23a97-700c-4baf-9d69-0fd2cf1b5d41)
